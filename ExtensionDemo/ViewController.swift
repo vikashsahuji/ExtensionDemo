@@ -19,6 +19,7 @@ class ViewController: UIViewController {
         
         let newString = "the old bike".replace(target: "old", withString: "new")
         print(newString)
+        print("vikash")
         
         self.view.backgroundColor = UIColor.customColor()
         
